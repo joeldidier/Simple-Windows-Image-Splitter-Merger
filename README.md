@@ -46,7 +46,9 @@ It will soon be tested on Windows Vista, 7, 8, 8.1, and Windows Server 2008 (R2)
  2. Run the script ***`Simple-Windows-Image-Splitter-Merger.bat`*****as Administrator**.<br/>
  ***Note :*** If you didn't run the script as Administrator, you will be prompted for Administrator rights. You must grant Administrator rights because they are required for DISM to work.
  - Follow the steps shown in the script :
-	3) Select the type of conversion you want
+<br/>
+	3) Select the type of conversion you want :
+	
 		-  `1` for WIM to SWM
 		- `2` for ESD to SWM
 		- `3` for SWM to WIM

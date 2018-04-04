@@ -73,10 +73,10 @@ You will have to enter :
 
 
 6) Choose if you want to change the type of Image Compression (only if you chose to convert from SWM to WIM or ESD).
-		 - `1` -> None :  No Compression (Fastest) [Destination Image bigger than Source Image]
-		 - `2` -> Fast :  Low Compression (Fast) [Destination Image 'may' be bigger than Source Image]
-		 - `3` -> Maximum :  Very High Compression (Slow) [Destination Image WAY smaller than Source Image]
-		 - `4` -> Recovery :  Insane Compression (Slowest) [Destination Image WAY smaller than Source Image]
+- `1` -> None :  No Compression (Fastest) [Destination Image bigger than Source Image]
+- `2` -> Fast :  Low Compression (Fast) [Destination Image 'may' be bigger than Source Image]
+- `3` -> Maximum :  Very High Compression (Slow) [Destination Image WAY smaller than Source Image]
+- `4` -> Recovery :  Insane Compression (Slowest) [Destination Image WAY smaller than Source Image]
 
 	7) Select an option :
 		- `1` to export a single Index
